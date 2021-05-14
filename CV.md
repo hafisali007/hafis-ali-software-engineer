@@ -4,7 +4,7 @@
 #Language: en
 -->
 
-![Hafis Ali](.img/hafis-small.png)
+![Hafis Ali](img/hafis-small.png)
 
 # Hafis Ali
 
