@@ -8,7 +8,7 @@
 
 # Hafis Ali
 
-I am a **Software Engineer** now working at [/Samad Global](https://www.samad-global.com), designing and 
+I am a **Software Engineer** now working at [Samad Global](https://www.samad-global.com), designing and 
 building web applications as an ASP.NET Developer
 - Skilled at process streamlining and automating multiple tasks for efficient 
   functioning & ensuring uniformity at client’s and the organization’s end
@@ -64,12 +64,14 @@ building web applications as an ASP.NET Developer
 
 *2009*
 
-**Senior Secondary**, *Govt. Higher Secondary School Kolathur*
+**Senior Secondary**, *Govt. Higher Secondary School Kolathur - Kozhikode*
+
 ---
 
 *2010 - 2012*
 
-**Diploma in Electronics And Communication**, *Awh Polytechnic College - Kozhikode*
+**Diploma in Electronics And Communication**, *AWH Polytechnic College - Kozhikode*
+
 ---
 
 *2013 - 2015*
