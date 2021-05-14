@@ -4,7 +4,7 @@
 #Language: en
 -->
 
-![Hafis Ali](.pdf/img/tim-small.png)
+![Hafis Ali](.img/hafis-small.jpg)
 
 # Hafis Ali
 
@@ -66,9 +66,9 @@ building web applications as an ASP.NET Developer
 
 **B. Tech in Electronics And Communication**, *Toc-H Institute of Science and Technology (CUSAT)- Kochi*
 
-*2010 - 2012*
-
 ---
+
+*2010 - 2012*
 
 **Diploma in Electronics And Communication**, *AWH Polytechnic College - Kozhikode*
 
