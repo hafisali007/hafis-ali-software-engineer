@@ -24,7 +24,7 @@ building web applications as an ASP.NET Developer
 
 *Nov 2016 - Present*
 
-**Software Engineer**, */Samad Global LLC*
+**Software Engineer**, *Samad Global LLC*
 
 *	Playing a multi-faceted role in the organization; Requirement gathering, creating mockups and demos, designing and deploying. 
 *	Design, development, implementation and maintenance of Web Applications (Both Backend and Frontend) using ASP.NET, MVC, Web services, C#, VB.NET, SQL Server, JavaScript, jQuery, React, Ajax, HTML, CSS, IIS.
@@ -62,21 +62,21 @@ building web applications as an ASP.NET Developer
 
 ## Education
 
-*2009*
+*2013 - 2015*
 
-**Senior Secondary**, *Govt. Higher Secondary School Kolathur - Kozhikode*
-
----
+**B. Tech in Electronics And Communication**, *Toc-H Institute of Science and Technology (CUSAT)- Kochi*
 
 *2010 - 2012*
+
+---
 
 **Diploma in Electronics And Communication**, *AWH Polytechnic College - Kozhikode*
 
 ---
 
-*2013 - 2015*
+*2009*
 
-**B. Tech in Electronics And Communication**, *Toc-H Institute of Science and Technology (CUSAT)- Kochi*
+**Senior Secondary**, *Govt. Higher Secondary School Kolathur - Kozhikode*
 
 <!--This is where I started my path on the IT road with a polyvalent formation going from mecanic to electronic and IT.-->
 
